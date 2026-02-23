@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Thumbnails
+._*
+
+# Folders created by macOS
+.Spotlight-V100
+.Trashes
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Node (por si en el futuro agregas algo)
+node_modules/
+
+# OS generated files
+Thumbs.db
